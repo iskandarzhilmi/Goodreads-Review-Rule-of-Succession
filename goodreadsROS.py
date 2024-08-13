@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 
 goodreadsClient = client.GoodreadsClient(
     'Cmme2MO49NzvdsCm2tyQ', 'FshjZsq2tla621mS74Pm7XXACpdFlvwu1AuYdBZm0Pc')
-apiKey = 'the previous API key is not working anyway so I don't care'
+apiKey = 'the previous API key is not working anyway so I don\'t care'
 shelf = '%23ALL%23'
 userId = '56094064'
 
